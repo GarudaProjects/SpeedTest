@@ -10,7 +10,7 @@
 $site_name = 'Internet Speed Test';								/* Website Title here */
 $site_descr = 'Check the speed of your Internet connection';	/* Website description here */
 $copyrights = 'Mohammed Cha © 2019';							/* footer Copyrights */
-$website_url = 'https://www.website.com';		                /* Website Url*/
+$website_url = 'https://garudaprojects.github.io/SpeedTest/';		                /* Website Url*/
 
 $adsense_validation = 'ca-pub-XXXXXXXXX';				        /* google adsense validation ID */
 $analytics_tracking = 'UA-XXXXXXXXX';							/* google analytics ID */
